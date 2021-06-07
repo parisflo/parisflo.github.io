@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-notitle
 title: Education/CV
 ---
 # Education
@@ -31,3 +31,6 @@ title: Education/CV
 <br>
 <b>Subject Areas:</b> Mathematics, Engineering (Systems)
 </p>
+
+# CV
+To appear soon.

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: Contact
 ---
 
 To appear soon.
