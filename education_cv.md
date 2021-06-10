@@ -1,5 +1,6 @@
 ---
 layout: page-notitle
+category: educationcv
 title: Education/CV
 ---
 # Education

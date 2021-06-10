@@ -1,7 +1,7 @@
 # Setup
 title:               Paris Flood
 tagline:             'As an Academic Website'
-description:         'Hello! My name is <a href="https://twitter.com/paris_flood" target="_blank">Paris Flood</a> and this is my personal website. It contains information about my scientific output as well as various tutorials related to my academic pursuits.'
+sidebar_text:        'Please <a href="/contact" title="Contact">reach out</a> if you ever feel the desire to do so!'
 url:                 https://parisflo.github.io
 baseurl:             ''
 paginate:            5

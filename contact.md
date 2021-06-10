@@ -1,5 +1,6 @@
 ---
 layout: page
+category: contact
 title: Contact
 ---
 
